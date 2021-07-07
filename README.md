@@ -11,32 +11,6 @@
  <img src="https://github.com/Fall-Xavier/simple/blob/main/Screenshot_2021-07-04-21-14-42-83_84d3000e3f4017145260f7618db1d683.jpg" width="640" title="Menu" alt="Menu">
 </p>
 
-<a href="https://github.com/Yayan-XD/followers">
-<img title="Followers" src="https://img.shields.io/github/followers/Yayan-XD?label=Followers&color=blue&style=flat-square"></a>
-<a href="https://github.com/Yayan-XD/termux-style/stargazers/">
-  <a href="https://github.com/Yayan-XD/ymbf">
-    <img alt="Last Commit" src="https://img.shields.io/github/last-commit/Yayan-XD/ymbf.svg"/>
-  </a>
-  <a href="https://github.com/Yayan-XD/ymbf">
-    <img alt="Language" src="https://img.shields.io/github/languages/count/Yayan-XD/ymbf.svg"/>
-  </a>
-  <a href="https://github.com/Yayan-XD/ymbf">
-    <img alt="Search" src="https://img.shields.io/github/search/Yayan-XD/Craker/ymbf.svg"/>
-  </a>
-  <a href="https://github.com/Yayan-XD/ymbf">
-    <img alt="Starts" src="https://img.shields.io/github/stars/Yayan-XD/ymbf.svg"/>
-  </a>
-<a href="https://github.com/Yayan-XD/ymbf">
-    <img alt="Repo Size" src="https://img.shields.io/github/repo-size/Yayan-XD/ymbf.svg"/>
-  </a>
-
-<a href="https://github.com/Yayan-XD/ymbf">
-    <img alt="Top Language" src="https://img.shields.io/github/languages/top/Yayan-XD/ymbf.svg"/> <a href="https://github.com/Yayan-XD/ymbf">
-    <img alt="Forks" src="https://img.shields.io/github/forks/Yayan-XD/ymbf.svg"/>
-  </a>
-</div>
-<p align="center">
-
 #### Install script on Termux
 ```bash
 $ pkg update && pkg upgrade
