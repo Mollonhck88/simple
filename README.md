@@ -3,7 +3,7 @@
 </h1>
 </div>
 <p align="center">
-  Made with ❤️ by <a href="https://www.facebook.com/siti.khatijah.1029">Fall Xavier_</a>
+  Author <a href="https://www.facebook.com/siti.khatijah.1029">Fall Xavier</a>
 </p>
 <p align="center">
  
