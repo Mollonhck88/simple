@@ -64,7 +64,7 @@ $ python2 run.py
 
 #### Donate :
 
-<a href="https://wa.me/6285229323951?text=Saya%20ingin%20donasi%20bang"><img src="https://commons.m.wikimedia.org/wiki/File:WhatsApp.svg" alt="alt text" width="80" height="80"></a> &nbsp;&nbsp;
+<a href="https://wa.me/6285229323951?text=Saya%20ingin%20donasi%20bang"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg
 
 * Notice Me : Please Don't Change Name Author
 Thanks For Using My Script
