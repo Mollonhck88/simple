@@ -48,14 +48,14 @@
 $ pkg update && pkg upgrade
 $ pkg install python2
 $ pkg install git
-$ git clone https://github.com/Yayan-XD/ymbf
-$ pip2 install requests bs4
-$ pip2 install futures
+$ pip install requests
+$ pip2 install requests
+$ git clone https://github.com/Fall-Xavier/simple
 ```
 #### Run script
 ```bash
-$ cd ymbf
-$ python2 ymbf.py
+$ cd simple
+$ python2 run.py
 ```
 #### MY SOCIAL MEDIA
 
@@ -64,7 +64,7 @@ $ python2 ymbf.py
 
 #### Donate :
 
-<a href="https://saweria.co/YayanXD"><img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Logo_dana_blue.svg" alt="alt text" width="80" height="80"></a> &nbsp;&nbsp;
+<a href="https://wa.me/6285229323951?text=Saya%20ingin%20donasi%20bang"><img src="https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white" alt="alt text" width="80" height="80"></a> &nbsp;&nbsp;
 
 * Notice Me : Please Don't Change Name Author
 Thanks For Using My Script
